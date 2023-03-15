@@ -1,1 +1,2 @@
 # CSS-Variables-and-JS
+This is a basic website that demonstrates using variables in CSS. It uses two sliders (one for spacing and one for image blur), as well as a color selector to make changes to an image in the browser. 
